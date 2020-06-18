@@ -1,5 +1,5 @@
 # Accessibility Index Card
-## Quick, high-level reminders for creating web applications
+## Quick, high-level reminders for creating accessible web applications
 
 1. 🏠 **Structure**: Content is well-organized and uses appropriate HTML tags
 2. 🌗 **Contrast, Color and Typeface**: Text content has sufficient contrast, information is not conveyed by color, and typefaces are easy to read
