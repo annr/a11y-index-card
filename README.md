@@ -1,26 +1,24 @@
-# Accessibility Index Card v3
+# Accessibility Index Card v4
+## Points to keep in mind to ensure accessibility
 
-1. **Content is logically organized**, and uses appropriate HTML tags
-
-2. Site **can be used with different devices**; screen reader, keyboard, touch screen...
-
-3. **Content is legible**; it has sufficient contrast, is resizable, and information is not conveyed by color alone
-
-4. Users who **can’t see or hear can use** the site
-
-5. Site is **easy to navigate** and the design is consistent throughout
-
-6. Site **helps users avoid error states**, and recover from errors
-
-7. **Users can override** auto-playing media, animations, and time limits on actions
-
-8. Site uses the shortest, sufficiently **descriptive text** possible
+1. **Structure**: Content is well-organized, and uses appropriate HTML tags
+2. **Device Independence**: Product can be used with screen readers, keyboards, touch screens
+3. **Contrast, Color and Typeface**: Content as sufficient contrast, information is not conveyed by color alone, and selected typefaces are easy to read
+4. **Text Alternatives**: People who can’t see or hear can use the site
+5. **Navigation**: Product is easy to navigate and people know where they are
+6. **Consistent Design**: Product is consistent and predictable
+7. **Information and Errors**: Product helps users avoid error states, and recover from errors
+8. **User Control and Preferences**: People can override auto-playing media, animations, and time limits on actions
+9. **Wording**: Product uses succinct, descriptive text
+10. **Flexibility**: Content gracefully adjusts to custom sizes and styles, and viewing modes
 
 ## Version notes
 
-I plan to use each of these main points as chapters in an accessibility guide I'm developing for my company. This version of the Accessibility Index Card moves towards distilling the points into chapter headings or labels.
+This version introduces concise chapter headings. I incorporated feedback from a few Khan Academy developers and designers, and especially from Andrew Lee, a designer.
 
-This version incorporates feedback from an accessibility guru friend of mine. Thanks B!
+Andrew and I worked hard to evolve the Accessibility Index Card towards something people in all functions can use. We want to make the ultimate accessibility guide that grows out of Accessibility Index Card to be a reference for all stages of the product development lifecycle.
+
+Also added subheading.
 
 ## Thoughts
 
