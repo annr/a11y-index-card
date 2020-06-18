@@ -1,22 +1,22 @@
-# Accessibility Index Card v2
+# Accessibility Index Card
 
-1. Content is logically organized even with styling off
+1. Site content is logically organized using common patterns (ie. has headings)
 
-2. Site can be operated with different devices (screen reader, keyboard, touch...)
+2. Site can be used with different devices (keyboard, touch screen...)
 
-3. Visual and audio content is consumable by those who can’t see or hear
+3. Site makes visual and audio content usable by those who can’t see or hear
 
-4. Elements have sufficient contrast and are distinguishable
+4. Content has sufficient contrast (ie. is legible outside on screens with glare)
 
 5. Site is easy to navigate and indicates where you are (skip links, focus state)
 
-6. Animations are used conservatively. prefers-reduce-motion is supported
+6. Site avoids flashing, and animations are used conservatively
 
-7. Site helps users avoid error states, and recover from errors
+7. Site helps users avoid error states and also helps them recover from errors
 
 8. Site uses the shortest, sufficiently descriptive text possible
 
-9. Design is consistent throughout; form fields, navigation...etc are consistent
+9. Site has a consistent design (navigation, forms fields...etc. used consistently)
 
 
 ## Thoughts
