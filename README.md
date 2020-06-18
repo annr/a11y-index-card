@@ -1,34 +1,46 @@
-# Accessibility Index Card v4
-## Points to keep in mind to ensure accessibility
+# Accessibility Index Card
+## Quick, high-level reminders for creating web applications
 
-1. **Structure**: Content is well-organized, and uses appropriate HTML tags
-2. **Device Independence**: Product can be used with screen readers, keyboards, touch screens
-3. **Contrast, Color and Typeface**: Content as sufficient contrast, information is not conveyed by color alone, and selected typefaces are easy to read
-4. **Text Alternatives**: People who can’t see or hear can use the site
-5. **Navigation**: Product is easy to navigate and people know where they are
-6. **Consistent Design**: Product is consistent and predictable
-7. **Information and Errors**: Product helps users avoid error states, and recover from errors
-8. **User Control and Preferences**: People can override auto-playing media, animations, and time limits on actions
-9. **Wording**: Product uses succinct, descriptive text
-10. **Flexibility**: Content gracefully adjusts to custom sizes and styles, and viewing modes
+1. 🏠 **Structure**: Content is well-organized and uses appropriate HTML tags
+2. 🌗 **Contrast, Color and Typeface**: Text content has sufficient contrast, information is not conveyed by color, and typefaces are easy to read
+3. 💬 **Content Alternatives**: People who are blind or deaf can use the site
+4. 🚌 **Easy to get around**: Product is easy to navigate, consistent and predictable
+5. 🚨 **Information and Errors**: Product helps people avoid error states and recover from errors
+6. 💪 **User Control and Preferences**: People can override auto-playing media, animations, and time limits on actions
+7. 📝 **Clarity**: Product uses succinct, descriptive text
+8. ♻️ **Flexibility**: Content adjusts to custom sizes, styles, and viewing modes
+
+## Motivation and Justification
+You may be thinking..."There are a lot of accessibility guides out there. Why do we need this one?"
+
+This guide balances being an introduction to accessibilty with being a useful reminder for people with more experience creating accessible web applications.
+
+As far as I know, no other accessiblity guide shares information and ownership across functional areas as well as this one does. It's an accessible accessiblity guide. :P
+
 
 ## Version notes
 
-This version introduces concise chapter headings. I incorporated feedback from a few Khan Academy developers and designers, and especially from Andrew Lee, a designer.
+This is going to be the last and final version. Although text may change a little bit, there's no reason to show the evolution from here on.
 
-Andrew and I worked hard to evolve the Accessibility Index Card towards something people in all functions can use. We want to make the ultimate accessibility guide that grows out of Accessibility Index Card to be a reference for all stages of the product development lifecycle.
+Changed subheading in an attempt to make the use case sound like it is for everyone to use.
 
-Also added subheading.
+Removed "Device independence." All of the points of the index card have aspects that are in support of device independence.
 
-## Thoughts
+Added emojis to the points to give them a little color and character.
 
-The Accessiblity Index Card is inspired by the personal finance index card: https://en.wikipedia.org/wiki/The_Index_Card
+## About
+
+The Accessiblity Index Card is inspired by [The Index Card: Why Personal Finance Doesn't Have to Be Complicated](https://en.wikipedia.org/wiki/The_Index_Card)
 
 The motivation for creating the personal finance index card was to make a subject that intimidates people more approachable.
 
 Likewise, building accessible software is difficult and intimidating. This Accessiblity Index Card aims to trigger reminders and convey the considerations required to make web sites WCAG 2.1 Level AA compliant.
 
 For people and teams who are trying to build accessbile web applications, you can print this card out and keep it visible where you work.
+
+The Accessiblity Index Card was created by me, Ann, with input from others and inspired by Deque's [Quick Accessibility Checklist for Designers](https://accessibility.deque.com/quick-accessibility-checklist-designers-download)
+
+Thanks for caring about this stuff.
 
 <3
 Ann
