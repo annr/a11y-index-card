@@ -1,23 +1,26 @@
-# Accessibility Index Card v2
+# Accessibility Index Card v3
 
-1. Content is logically organized even with styling off
+1. **Content is logically organized**, and uses appropriate HTML tags
 
-2. Site can be operated with different devices (screen reader, keyboard, touch...)
+2. Site **can be used with different devices**; screen reader, keyboard, touch screen...
 
-3. Visual and audio content is consumable by those who can’t see or hear
+3. **Content is legible**; it has sufficient contrast, is resizable, and information is not conveyed by color alone
 
-4. Elements have sufficient contrast and are distinguishable
+4. Users who **can’t see or hear can use** the site
 
-5. Site is easy to navigate and indicates where you are (skip links, focus state)
+5. Site is **easy to navigate** and the design is consistent throughout
 
-6. Animations are used conservatively. prefers-reduce-motion is supported
+6. Site **helps users avoid error states**, and recover from errors
 
-7. Site helps users avoid error states, and recover from errors
+7. **Users can override** auto-playing media, animations, and time limits on actions
 
-8. Site uses the shortest, sufficiently descriptive text possible
+8. Site uses the shortest, sufficiently **descriptive text** possible
 
-9. Design is consistent throughout; form fields, navigation...etc are consistent
+## Version notes
 
+I plan to use each of these main points as chapters in an accessibility guide I'm developing for my company. This version of the Accessibility Index Card moves towards distilling the points into chapter headings or labels.
+
+This version incorporates feedback from an accessibility guru friend of mine. Thanks B!
 
 ## Thoughts
 
